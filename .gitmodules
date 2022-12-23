@@ -1,0 +1,15 @@
+[submodule "fake-xrm-easy-abstractions"]
+	path = fake-xrm-easy-abstractions
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy-abstractions.git
+[submodule "fake-xrm-easy-core"]
+	path = fake-xrm-easy-core
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy-core.git
+[submodule "fake-xrm-easy-messages"]
+	path = fake-xrm-easy-messages
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy-messages.git
+[submodule "fake-xrm-easy-plugins"]
+	path = fake-xrm-easy-plugins
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy-plugins.git
+[submodule "fake-xrm-easy"]
+	path = fake-xrm-easy
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy.git
