@@ -13,3 +13,6 @@
 [submodule "fake-xrm-easy"]
 	path = fake-xrm-easy
 	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy.git
+[submodule "fake-xrm-easy-code-activities"]
+	path = fake-xrm-easy-code-activities
+	url = https://github.com/BetimBeja/dynamicsvalue-fake-xrm-easy-code-activities.git
